@@ -16,6 +16,8 @@
 
 > The cat is not allowed to move into the squares 33 to 41
 
+> Enter 9999 at any point in the game to save current state
+
 > If a cat misses an opportunity to kill a mouse, the cat dies in it's place
 
 > The goal of the mice is to fill up the squares 33 to 41. When this happens, the game ends and mice win
